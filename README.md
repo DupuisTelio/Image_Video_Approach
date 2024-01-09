@@ -5,3 +5,4 @@ Here is the repository containing some tested codes and implementation for the m
 Architecture
 ---
 
+model tested first : https://github.com/lucidrains/slot-attention/blob/master/slot_attention/slot_attention.py 
